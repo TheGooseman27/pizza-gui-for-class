@@ -1,0 +1,4 @@
+sixinch: Six inch pizza
+eightinch: Eight inch pizza
+footlong: Twelve inch pizza
+calculate_total: Used to calculate the total by what pizza the person picked.
